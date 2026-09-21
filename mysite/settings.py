@@ -117,7 +117,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = BASE_DIR / 'static'
-ALLOWED_HOSTS = ['://pythonanywhere.com', '127.0.0.1']
+ALLOWED_HOSTS = ['angela775.pythonanywhere.com', '127.0.0.1']
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
